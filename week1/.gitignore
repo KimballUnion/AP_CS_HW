@@ -20,3 +20,18 @@ gen/
 .classpath
 .project
 .DS_Store
+.settings/ 
+
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
